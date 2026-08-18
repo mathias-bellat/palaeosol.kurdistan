@@ -8,7 +8,6 @@
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY-SA
 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mathias-bellat/palaeosol.kurdistan/master?urlpath=rstudio)
 
 This repository contains the data and code for our paper:
 
