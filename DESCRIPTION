@@ -1,0 +1,12 @@
+Package: palaeosol.kurdistan
+Title: Palaeosol modelling
+Version: 0.1.0.0
+Authors@R: 
+    person("Mathias", "Bellat", , "mathias.archaeology@gmail.com", role = c("aut", "cre"))
+Description: Code for the proceedings of Palaeosol modelling for archaeological cases: a study of past soils in Iraqi Kurdistan and their relation with palaeoclimatic conditions 2500 to 300 BCE.
+License: MIT + file LICENSE
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.1.0
